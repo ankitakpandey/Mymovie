@@ -1,0 +1,42 @@
+[
+    {
+        "id" : 1,
+        "title" : "The Godfather",
+        "poster_url" : "../../assets/Godfather.jpeg"
+    },
+    {
+        "id" : 2,
+        "title" : "The Dark Knight",
+        "poster_url" : "../../assets/Dark-Knight.jpeg"
+    },
+    {
+        "id" : 3,
+        "title" : "Inception",
+        "poster_url" : "../../assets/Inception.jpeg"
+    },
+    {
+        "id" : 4,
+        "title" : "Interstellar",
+        "poster_url" : "../../assets/Interstellar.jpeg"
+    },
+    {
+        "id" : 5,
+        "title" : "Shahid",
+        "poster_url" : "../../assets/Shahid.jpeg"
+    },
+    {
+        "id" : 6,
+        "title" : "The Nun",
+        "poster_url" : "../../assets/Nun.jpeg"
+    },
+    {
+        "id" : 7,
+        "title" : "Mile 22",
+        "poster_url" : "../../assets/Mile.jpeg"
+    },
+    {
+        "id" : 8,
+        "title" : "The Irishman",
+        "poster_url" : "../../assets/Irishman.jpeg"
+    }
+]
